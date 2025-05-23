@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "W10 Products", ".", "{4094388A-78A5-4DE7-B551-DE11C8A18270}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55198"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\H only 235 is current\CIS 235 Vue.js\Weekly course content\CIS235 W10 Lab Files\W10 Products\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55198\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55198"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\H only 235 is current\CIS 235 Vue.js\Weekly course content\CIS235 W10 Lab Files\W10 Products\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55198\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55198"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4094388A-78A5-4DE7-B551-DE11C8A18270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4094388A-78A5-4DE7-B551-DE11C8A18270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC227A6-0399-4652-857D-478ABD94C204}
+	EndGlobalSection
+EndGlobal
